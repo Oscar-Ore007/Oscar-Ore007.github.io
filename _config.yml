@@ -1,11 +1,11 @@
 # Site settings
 author: Oscar Ore
-title: 
+title: Why do I want to become a software engineer? 
 header-img: img/home-bg.png
 email: oscar.ore2011@gmail.com
 copyright_name: Oscar Ore
 description: > # this means to ignore newlines until "baseurl:"
-  
+  1st blog post 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Oscar-Ore007
