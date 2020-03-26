@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "ColumbusBeer:My first CLI project "
+title:      "ColumbusBeer My first CLI project "
 date:       2020-03-25 21:04:43 -0400
 permalink:  columbusbeer_my_first_cli_project
 ---
