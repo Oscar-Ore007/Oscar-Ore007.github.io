@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "CLI Project: COVIDTracker""
-date:       2020-06-27 15:32:21 +0000
+title:      "CLI Project: COVIDTracker"
+date:       2020-06-27 11:32:22 -0400
 permalink:  cli_project_covidtracker
 ---
 
